@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kanwa-hoshiki",
  "yomi": "かんなほうしき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "連句式目（和漢聯句）",
+  "era": "明応7年（1498）3月",
+  "author": "未詳",
+  "desc": "和漢聯句の式目。一面八句のうち漢句・和句の配分、花・月・雪の句数、去り嫌いなどを定める。連歌新式などを参照してまとめたと跋にいう。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -94,6 +99,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:23:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
